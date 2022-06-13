@@ -23,7 +23,7 @@ public class Main {
             }
         }
         {
-            int[][] spiral = Spiral.spiral(5, 6);
+            int[][] spiral = Spiral.spiral(5, 5);
 
             for (int i = 0; i < spiral.length; i++) {
                 for (int j = 0; j < spiral[i].length; j++) {
